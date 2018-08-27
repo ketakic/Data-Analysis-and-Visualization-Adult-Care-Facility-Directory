@@ -1,4 +1,4 @@
-# Data-Analysis-and-Visualization-Adult-Care-Facility-Directory-
+# Data-Analysis-and-Visualization-Adult-Care-Facility-Directory
 Data Analysis and Visualization using Microsoft Power BI
 Analyzed Adult Care Facility Directory of New York State casing 340 unique zip codes. 
 Data Visualization with advance features of Power BI such as enlighten aquarium, Treemap, Hierarchy using drill through
